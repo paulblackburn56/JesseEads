@@ -1,0 +1,116 @@
+<bluebook>
+	<search_term>wrist</search_term>
+	<user_zip>37211</user_zip>
+	<procedures>
+		<procedure name="wrist mri" id="302">
+			<high_price>3000</high_price>
+			<low_price>360</low_price>
+			<fair_price>800</fair_price>
+			<facility id="10101">
+				<name>XYZ Imaging Center</name>
+				<zip_code>37027</zip_code>
+				<facility_price>400</facility_price>
+				<doctor_price>500</doctor_price>
+				<anesthesia_price></anesthesia_price>
+				<price_color>2</price_color>
+				<quality_indicator>4</quality_indicator>
+				<patient_satisfaction>4.27</patient_satisfaction>
+			</facility>
+			<facility id="10533">
+				<name>Bargain Imaging Today</name>
+				<zip_code>37066</zip_code>
+				<facility_price>150</facility_price>
+				<doctor_price>400</doctor_price>
+				<anesthesia_price></anesthesia_price>
+				<price_color>1</price_color>
+				<quality_indicator>1</quality_indicator>
+				<patient_satisfaction>2.97</patient_satisfaction>
+			</facility>
+			<facility id="10622">
+				<name>ABC Regional Hospital</name>
+				<zip_code>37040</zip_code>
+				<facility_price>1800</facility_price>
+				<doctor_price>750</doctor_price>
+				<anesthesia_price></anesthesia_price>
+				<price_color>3</price_color>
+				<quality_indicator>1</quality_indicator>
+				<patient_satisfaction>1.32</patient_satisfaction>
+			</facility>
+		</procedure>
+		<procedure name="wrist replacement" id="706">
+			<high_price>25000</high_price>
+			<low_price>9050</low_price>
+			<fair_price>11000</fair_price>
+			<facility id="10307">
+				<name>ZZZ Medical Center</name>
+				<zip_code>37202</zip_code>
+				<facility_price>5015</facility_price>
+				<doctor_price>3000</doctor_price>
+				<anesthesia_price>1800</anesthesia_price>
+				<price_color>1</price_color>
+				<quality_indicator>1</quality_indicator>
+				<patient_satisfaction>5.0</patient_satisfaction>
+			</facility>
+			<facility id="10722">
+				<name>Big U Hospital</name>
+				<zip_code>37067</zip_code>
+				<facility_price>16500</facility_price>
+				<doctor_price>5200</doctor_price>
+				<anesthesia_price>3000</anesthesia_price>
+				<price_color>3</price_color>
+				<quality_indicator>2</quality_indicator>
+				<patient_satisfaction>4.12</patient_satisfaction>
+			</facility>
+			<facility id="10369">
+				<name>County Regional Hospital</name>
+				<zip_code>37040</zip_code>
+				<facility_price>6000</facility_price>
+				<doctor_price>3000</doctor_price>
+				<anesthesia_price>1250</anesthesia_price>
+				<price_color>2</price_color>
+				<quality_indicator>3</quality_indicator>
+				<patient_satisfaction>0.97</patient_satisfaction>
+			</facility>
+		</procedure>
+		<procedure name="carpal tunnel surgery" id="H111">
+			<high_price>7000</high_price>
+			<low_price>1800</low_price>
+			<fair_price>2500</fair_price>
+			<facility id="10307">
+				<name>YYY Surgery Center</name>
+				<zip_code>37010</zip_code>
+				<facility_price>1295</facility_price>
+				<doctor_price>800</doctor_price>
+				<anesthesia_price>700</anesthesia_price>
+				<price_color>1</price_color>
+				<quality_indicator>4</quality_indicator>
+				<patient_satisfaction></patient_satisfaction>
+			</facility>
+			<facility id="10722">
+				<name>Big T Hospital</name>
+				<zip_code>37024</zip_code>
+				<facility_price>1800</facility_price>
+				<doctor_price>1000</doctor_price>
+				<anesthesia_price>800</anesthesia_price>
+				<price_color>2</price_color>
+				<quality_indicator>4</quality_indicator>
+				<patient_satisfaction>3.12</patient_satisfaction>
+			</facility>
+			<facility id="10369">
+				<name>Big Top Hospital</name>
+				<zip_code>37040</zip_code>
+				<facility_price>2500</facility_price>
+				<doctor_price>2000</doctor_price>
+				<anesthesia_price>1500</anesthesia_price>
+				<price_color>3</price_color>
+				<quality_indicator>4</quality_indicator>
+				<patient_satisfaction>4.97</patient_satisfaction>
+			</facility>
+		</procedure>
+	</procedures>
+	<disclaimer>
+		<content>Always ask for a quote.</content>
+		<content_html><![CDATA[<div><b><i>Always,/i> ask for a quote!</b></div>]]>
+		</content_html>
+	</disclaimer>
+</bluebook>
